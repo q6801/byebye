@@ -1,3 +1,3 @@
-hello = 10
+hello = 10;
 def fuck():
-    return hello
+    return hello;
