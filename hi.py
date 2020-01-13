@@ -1,4 +1,4 @@
-hello = 10;
+hello = 10
 def fuck():
     return hello;
 if __name__ == '__main__':
